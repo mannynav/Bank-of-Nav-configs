@@ -1,0 +1,10 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Bank of Nav savings account related production APIs "
+  contactDetails:
+    name: "PROD"
+    email: "Prod@gmail.com"
+  onCallSupport:
+    - (999) 999-9999
