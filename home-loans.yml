@@ -1,0 +1,10 @@
+build:
+  version: "3.0"
+
+home-loans:
+  message: "Bank of Nav home loans related local APIs "
+  contactDetails:
+    name: "John Doe"
+    email: "JohnDoe@gmail.com"
+  onCallSupport:
+    - (123) 456-7890
