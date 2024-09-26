@@ -6,5 +6,5 @@ savings-account:
   contactDetails:
     name: "John Doe"
     email: "JohnDoe@gmail.com"
-  onCallSupport:
+  support:
     - (123) 456-7890
