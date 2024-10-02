@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Bank of Nav savings account related production APIs "
+  message: "Bank of Nav savings account related production APIs - testing refresh with rabbit "
   contactDetails:
     name: "PROD"
     email: "{cipher}0dc287d7c333030a10153a30b94839165526fdb48ff7997a30c390332062ab3a"
