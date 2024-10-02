@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 savings-account:
-  message: "Bank of Nav savings account related local APIs using actuator - test savings account refresh again"
+  message: "Bank of Nav savings account related local APIs using actuator - test savings account with Hookdeck"
   contactDetails:
     name: "John Doe"
     email: "JohnDoe@gmail.com"
